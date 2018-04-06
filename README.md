@@ -13,8 +13,8 @@
 ### RUNNING PROGRAMS
 
 1- Open two distinct terminal and,
-- [run] $python2 *_server.py
-- [run] $python2 *_client.py
+- [run] $ python2 *_server.py
+- [run] $ python2 *_client.py
 
 2- or open programs with PyCharm.
 
